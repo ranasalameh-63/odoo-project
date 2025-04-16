@@ -58,13 +58,9 @@ As junior developers, we individually built a full-stack **burger ordering platf
 
 ---
 
-## 📩 8. Contact
+## 🧠 7. Project Collaboration
 
-We’d love to hear your feedback or answer any questions!
-
-- 📧 Email: yourburgerkitchen@example.com  
-- 🌐 Website: [burgerkitchen.com](http://burgerkitchen.com)  
-- 📍 Location: Your Cloud Kitchen Location Here
+- 🎨 **Figma Design**: [[View the UI Prototype](https://www.figma.com/file/your-figma-link](https://www.figma.com/design/g9pDrckzPMrAWQjpUsT3bY/Untitled?node-id=0-1&t=k0AlauR321kopEHB-1))  
+- ✅ **Trello Board**: [[Track Project Progress](https://trello.com/b/your-board-link](https://trello.com/b/wpn7Xrvj/odoo))
 
 ---
-
