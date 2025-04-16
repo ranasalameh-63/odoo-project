@@ -1,4 +1,4 @@
-# 🍔 Burger Cloud Kitchen Ordering System (Built with Odoo)
+# 🍔 Burganova
 
 A responsive and user-friendly **online burger ordering platform** for a cloud kitchen, developed using **Odoo**. This system allows customers to explore a mouthwatering menu, place delivery or pickup orders, and track them in real-time. Admins handle everything from the Odoo backend — managing orders, burgers, feedback, and more. *No dine-in available — just juicy burgers to-go!*
 
